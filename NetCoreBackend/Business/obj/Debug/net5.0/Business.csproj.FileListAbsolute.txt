@@ -1,0 +1,5 @@
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
