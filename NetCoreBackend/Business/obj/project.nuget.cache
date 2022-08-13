@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DMca2gF88Cog4/tp/O1+lXRkllKYkxR+xq0noTDKUI3auTKbooJ/1Tvi4JAa4jpRk6UJtZmscpyz1kNn7+xMRA==",
+  "dgSpecHash": "qGmyWByE8O53pi9wgdQXFJr7GmNLR/gexQU6SAwXZMKAUuLDzA7GCo2b3hBUV9ghmKzgq2tKr6i1h/Xnz45BpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\STElb\\OneDrive\\Belgeler\\GitHub\\.NetCoreBackendProject\\NetCoreBackend\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\STElb\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

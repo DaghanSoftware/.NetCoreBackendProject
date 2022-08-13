@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5aRfJelB3pk8OSFG5BUZbIqgHkZvPdrP9oUBFjzgoBuVR6QRP1iGd40vcLHRD9HCPRe0ujnK7EbYmXrLhAsM0g==",
+  "dgSpecHash": "toYl8LQStWthIvZh4P5EkQbeSi60OTHgZ4agR29uVm6vwWQn7uAN6YRAVtcRBnE/4q6p+7fSviDGazM+z45Q5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\STElb\\OneDrive\\Belgeler\\GitHub\\.NetCoreBackendProject\\NetCoreBackend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\STElb\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\STElb\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
