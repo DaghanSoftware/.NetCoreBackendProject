@@ -15,5 +15,6 @@ namespace DataAccess.Concrete.EntityFramework.Context
             optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB;database=Northwind; integrated security=true;");
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }
