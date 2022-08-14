@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace Core.Utilities.Security.Jwt
 {
-    public interface ITokenHelper
+    public class JwtHelper : ITokenHelper
     {
-        AccessToken CreateToken(User user,List<OperationClaim> operationClaims);
+        public AccessToken CreateToken(User user, List<OperationClaim> operationClaims)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
