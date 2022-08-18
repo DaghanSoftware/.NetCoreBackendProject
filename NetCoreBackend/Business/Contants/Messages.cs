@@ -20,5 +20,7 @@ namespace Business.Contants
         public static string SuccessfulLogin = "Sisteme giriş başarılı";
 
         public static string UserAlreadyExists = "Bu kullanıcı zaten mevcut";
+
+        public static string UserRegistered = "Kullanıcı Başarıyla Kayıt Edildi";
     }
 }
