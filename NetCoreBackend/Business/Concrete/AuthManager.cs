@@ -47,10 +47,14 @@ namespace Business.Concrete
         {
             throw new NotImplementedException();
         }
-
+        //Kullanıcı var mı operasyonu
         public IResult UserExists(string email)
         {
-            throw new NotImplementedException();
+            if (_userService.GetByMail(email)!=null)
+            {
+                return new ErrorResult(Messages.UserAlreadyExists);
+            }
+            return new SuccessResult();
         }
 
     }
