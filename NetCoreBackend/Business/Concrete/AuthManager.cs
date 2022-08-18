@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.Contants;
 using Core.Entities.Concrete;
 using Core.Utilities.Results;
 using Core.Utilities.Security.Jwt;
@@ -24,7 +25,12 @@ namespace Business.Concrete
 
         public IDataResult<User> Login(UserForLoginDto userForLoginDto, string password)
         {
-            throw new NotImplementedException();
+            var userToCheck = _userService.GetByMail(userForLoginDto.Email);
+            if (userToCheck==null)
+            {
+                return new ErrorDataResult<User>(Messages.UserNotFound);
+            }
+
         }
 
         public IDataResult<User> Register(UserForRegisterDto userForRegisterDto, string password)
