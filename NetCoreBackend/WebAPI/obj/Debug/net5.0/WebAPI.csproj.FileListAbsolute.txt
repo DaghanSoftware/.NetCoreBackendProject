@@ -68,3 +68,9 @@ C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\We
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
