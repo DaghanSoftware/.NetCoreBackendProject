@@ -55,10 +55,14 @@ namespace Business.Concrete
             return new SuccessDataResult<User>(user, Messages.UserRegistered);
         }
 
+        //Kullanıcıya kayıt olduktan veya login olduktan sonra vereceğimiz token'ı oluşturma
         public IDataResult<AccessToken> CreateAccessToken(User user)
         {
-            throw new NotImplementedException();
+            var claims = _userService.GetClaims(user);
+            var accessToken = _tokenHelper.CreateToken(user, claims);
+            return new SuccessDataResult<AccessToken>(accessToken, Messages.AccessTokenCreate);
         }
+
         //Kullanıcı var mı operasyonu
         public IResult UserExists(string email)
         {
