@@ -42,7 +42,6 @@ C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\We
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -74,3 +73,4 @@ C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\We
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\STElb\OneDrive\Belgeler\GitHub\.NetCoreBackendProject\NetCoreBackend\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
